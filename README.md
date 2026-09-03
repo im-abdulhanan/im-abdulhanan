@@ -100,12 +100,10 @@ Currently focused on becoming a **strong Full Stack Developer** while expanding 
   <a href="https://github.com/im-abdulhanan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-## 📫 Contact
-
-<a href="https://my-new-portfolio-gold.vercel.app/">
+  <a href="https://my-new-portfolio-gold.vercel.app/">
   <img src="https://img.shields.io/badge/Abdul%20Hanan%20%E2%80%94%20Senior%20Creative%20Engineer%20%26%20Full%20Stack%20Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
 
 
 ---
