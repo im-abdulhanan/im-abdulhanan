@@ -106,9 +106,6 @@ Currently focused on becoming a **strong Full Stack Developer** while expanding 
   <a href="mailto:imhanan.mail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://my-new-portfolio-gold.vercel.app/">
-    <img src="https://img.shields.io/badge/Abdul%20Hanan%20%E2%80%94%20Senior%20Creative%20Engineer%20%26%20Full%20Stack%20Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 </p>
 
 
