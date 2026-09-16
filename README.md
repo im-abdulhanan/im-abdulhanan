@@ -85,12 +85,6 @@ Currently focused on becoming a **strong Full Stack Developer** while expanding 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-abdulhanan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-abdulhanan&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
